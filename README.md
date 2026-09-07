@@ -29,7 +29,7 @@ python predict.py "This movie was amazing!"
 
 ## Status
 
-🚧 Work in progress — learning as I build.
+✅ Complete — learning as I build.
 
 ## What's next
 

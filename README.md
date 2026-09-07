@@ -35,4 +35,4 @@ python predict.py "This movie was amazing!"
 
 - Try a bigger dataset
 - Compare different models
-- Move on to building a RAG chatbot
+- Move on to building a RAG chatbot. 
